@@ -1,0 +1,138 @@
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\PresentacionGPU.exe.config
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\PresentacionGPU.exe
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\PresentacionGPU.pdb
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Entidades.dll
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Logica.dll
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Datos.dll
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Entidades.pdb
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Logica.pdb
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Datos.pdb
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.AdminDashboard.resources
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.StudentDashboard.resources
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.TeacherDashboard.resources
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.UserType.resources
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.exe
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.pdb
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\itextsharp.dll
+C:\Users\Estudiante\Desktop\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\itextsharp.xml
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\PresentacionGPU.exe.config
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\PresentacionGPU.exe
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\PresentacionGPU.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Entidades.dll
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\itextsharp.dll
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Logica.dll
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Datos.dll
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Entidades.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Logica.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\itextsharp.xml
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Datos.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.AssemblyReference.cache
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.AdminDashboard.resources
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.Properties.Resources.resources
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.StudentDashboard.resources
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.TeacherDashboard.resources
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.UserType.resources
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.GenerateResource.cache
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CopyComplete
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.exe
+C:\Users\Kadir\OneDrive\Escritorio\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\PresentacionGPU.exe.config
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\PresentacionGPU.exe
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\PresentacionGPU.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\Entidades.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\itextsharp.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\Logica.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\Datos.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\Entidades.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\Logica.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\itextsharp.xml
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\bin\Debug\Datos.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.AdminDashboard.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.StudentDashboard.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.TeacherDashboard.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.UserType.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.exe
+C:\Users\Estudiante\Desktop\Nueva carpeta\PresentacionGPU\obj\Debug\PresentacionGPU.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.AssemblyReference.cache
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.AdminDashboard.resources
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.Properties.Resources.resources
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.StudentDashboard.resources
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.TeacherDashboard.resources
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.UserType.resources
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.GenerateResource.cache
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.exe
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\PresentacionGPU.exe.config
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\PresentacionGPU.exe
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\PresentacionGPU.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Entidades.dll
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\itextsharp.dll
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Logica.dll
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Datos.dll
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Entidades.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Logica.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\itextsharp.xml
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\bin\Debug\Datos.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.AdminDashboard.resources
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.CambioContra.resources
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.StudentDashboard.resources
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.TeacherDashboard.resources
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.UserType.resources
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.exe
+C:\Users\Estudiante\Desktop\proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.pdb
+C:\Users\Kadir\OneDrive\Escritorio\Universidad\Servicios_Escolares_Proyecto\PresentacionGPU\obj\Debug\PresentacionGPU.CambioContra.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\PresentacionGPU.exe.config
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\PresentacionGPU.exe
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\PresentacionGPU.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\Entidades.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\itextsharp.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\Logica.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\Datos.dll
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\Entidades.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\Logica.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\itextsharp.xml
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\bin\Debug\Datos.pdb
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.AdminDashboard.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.CambioContra.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.StudentDashboard.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.TeacherDashboard.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.UserType.resources
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.exe
+C:\Users\Estudiante\Desktop\Nueva carpeta (2)\PresentacionGPU\obj\Debug\PresentacionGPU.pdb

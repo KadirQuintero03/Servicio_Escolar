@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Reporte Estudiantil</title>
+    <style>
+        table.border {
+            border-collapse: collapse;
+        }
+
+            table.border th {
+                padding: 5px;
+                border: 1px solid black;
+            }
+
+            table.border td {
+                padding: 5px;
+                border: 1px solid black;
+            }
+    </style>
+</head>
+<body>
+    <table style="width:100%">
+        <tr>
+            <td style="width:100%" align="center" valign="top">
+                <table>
+                    <tr><td align="center"><h4 style="margin:0px">BOLETIN</h4></td></tr>
+                    <tr><td align="center">Institucion Educativa Autónoma K&K </td></tr>
+                    <tr><td align="center">AutonomaK&K@gmail.com</td></tr>
+                    <tr><td align="center">319-358-4046</td></tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr><td colspan="3" height="30"></td></tr>
+
+        <tr>
+            <td colspan="2">
+                <table class="border " style="width:110%">
+                    <tr style="background-color: #D8D8D8">
+                        <th width="20%" height="20"> <div align="center" class="text_negro">N°IDENTIFICACION</div></th>
+                        <th width="80%" height="20"> <div align="center" class="text_negro">NOMBRE</div></th>
+                    </tr>
+                    <tr align="left" valign="middle">
+                        <td width="20%" height="20" align="center" class="text_negro">@ID</td>
+                        <td width="80%" height="20" align="center" class="text_negro">@NOMBRE</td>
+                    </tr>
+                </table>
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td colspan="2">
+
+                <table class="border" style="width:110%;">
+                    <tr style="background-color:#D8D8D8">
+                        <th width="20%" height="20"> <div align="center" class="text_negro">CURSO</div></th>
+                        <th width="80%" height="20"> <div align="center" class="text_negro">APELLIDO</div></th>
+                    </tr>
+                    <tr align="left" valign="middle">
+                        <td width="20%" height="20" align="center" class="text_negro">@CURSO</td>
+                        <td width="80%" height="20" align="center" class="text_negro">@APELLIDO @2APELLIDO</td>
+                    </tr>
+                </table>
+            </td>
+            <td></td>
+        </tr>
+
+        <tr><td colspan="3" height="30"></td></tr>
+        <tr>
+            <td colspan="3">
+                <table class="border" style="width:101%;">
+                    <thead>
+                        <tr style="background-color:#D8D8D8">
+                            <th width="20%" align="center">Materia</th>
+                            <th width="20%" align="center">Nota 1</th>
+                            <th width="20%" align="center">Nota 2</th>
+                            <th width="20%" align="center">Nota 3</th>
+                            <th width="40%" align="center">Definitiva</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @FILAS
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

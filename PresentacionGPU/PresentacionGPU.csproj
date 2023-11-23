@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5DFBFC8A-B630-4B38-A500-927318166079}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PresentacionGPU</RootNamespace>
+    <AssemblyName>PresentacionGPU</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.xmlworker.5.5.13.3\lib\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminDashboard.Designer.cs">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CambioContra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambioContra.Designer.cs">
+      <DependentUpon>CambioContra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="StudentDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentDashboard.Designer.cs">
+      <DependentUpon>StudentDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeacherDashboard.Designer.cs">
+      <DependentUpon>TeacherDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserType.Designer.cs">
+      <DependentUpon>UserType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminDashboard.resx">
+      <DependentUpon>AdminDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CambioContra.resx">
+      <DependentUpon>CambioContra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentDashboard.resx">
+      <DependentUpon>StudentDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherDashboard.resx">
+      <DependentUpon>TeacherDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserType.resx">
+      <DependentUpon>UserType.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paisaje.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{d479f3e7-335c-4d68-97ac-acc3bc259db4}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{835ebc17-d8e7-4d83-b3f6-3a3b0cae5a09}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-regreso-escuela-utiles-escolares-espacio-copia_23-2148958977.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17276.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2022-10-27 at 21.00.37.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2022-10-27 at 21.00.371.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2022-10-27 at 21.00.37 %281%29.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2022-10-27 at 21.16.39.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar-signo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5087579.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estudiantes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\estudiar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\universidad.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plantilla.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4092564-about-mobile-ui-profile-ui-user-website_114033.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_password_icon_142997.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit_icon-icons.com_70975.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon Key2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon Key21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon Key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simple Login Page Website Desktop Prototype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simple Login Page Website Desktop Prototype %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simple Login Page Website Desktop Prototype %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Simple Login Page Website Desktop Prototype %282%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2022-11-27 at 15.09.22.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %287%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %286%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %288%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %289%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue Minimalist Corporate Desktop Prototype %281%291.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
