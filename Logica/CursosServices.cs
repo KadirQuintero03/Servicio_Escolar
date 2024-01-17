@@ -14,12 +14,12 @@ namespace Logica
     public class CursosServices
     {
         //Llamada a la capa de Datos
-        Datos.RepositorioCursos repositorioCursos = new RepositorioCursos();
+        Datos.RepositoryCourses repositoryCourses = new RepositoryCourse();
 
         //Envia el nombre del Curso y retorrna el Id del curso
-        public string GetById(string Nombre_Curso)
+        public string GetById(string nameCourse)
         {
-            return repositorioCursos.GetById(Nombre_Curso);
+            return repositoryCourses.GetById(nameCourse);
         }
 
     }

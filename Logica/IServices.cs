@@ -14,7 +14,7 @@ namespace Logica
         string Delete(string id);
         bool Exists(T t);
         string Edit(T t);
-        T Busqueda(string Id);
+        T Search(string Id);
 
     }
 }

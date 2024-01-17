@@ -23,15 +23,16 @@ namespace Logica
         }
 
         //Envia la contraseña vieja y nueva y retorna un mensaje de si lo agregò o no
-        public string Update(string ContraseñaV, string ContraseñaN)
-        {
-            return repositoryUser.Update(ContraseñaV, ContraseñaN);
+
+
+        public string Update(string oldPassword, string newPassword){
+            return repositoryUser.Update(oldPassword, newPassword)
         }
 
         //Envia el UserName, Contraseña y rol del User y retorna un booleano si existe o no
         public bool Exists(User user)
         {
-            return repositoryUser.Exists(user.UserName, user.Contraseña, user.Rol);
+            return repositoryUser.Exists(user.userName, user.password, user.rol);
         }
 
     }

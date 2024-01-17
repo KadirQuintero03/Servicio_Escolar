@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Datos
 {
-    public class RepositorioCursos : Conexion
+    public class RepositoryCourses : Conexion
     {
         //Busca por Nombre del curso en la tabla de curso y retorna el id del curso
         public string GetById(string Nombre_Curso)
