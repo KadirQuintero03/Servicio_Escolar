@@ -9,8 +9,8 @@ namespace Entidades
     public class User
     {
         //Declaracion de atributos
-        public String UserName { get; set; }
-        public String Contraseña { get; set; }
-        public String Rol { get; set; }
+        public String userName { get; set; }
+        public String password { get; set; }
+        public String rol { get; set; }
     }
 }
